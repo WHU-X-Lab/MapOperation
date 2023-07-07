@@ -1,0 +1,39 @@
+ArcGIS Code Migration analyzer run on 2021/6/10 at 15:40
+--------------------------------------------------------------
+Analyzing project: MapOperation
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.3DAnalyst
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.ADF.Local
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.AxControls
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.Carto
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.Controls
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.DataSourcesFile
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.DataSourcesGDB
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.DataSourcesRaster
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.Display
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.Geodatabase
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.Geometry
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.GlobeCore
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.Output
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.System
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.SystemUI
+
+Set Version Specific to false for assembly reference ESRI.ArcGIS.Version
+
+-------------------------
+
+Finished analysis. Check the Warnings in the Visual Studio Error List window for migration issues. 0 migration issues found.
